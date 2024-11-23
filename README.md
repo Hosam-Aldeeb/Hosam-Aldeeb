@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hosam Aldeeb</h1>
 <h3 align="center">An Electrical & Computer Engineering Masters Student at the University of Waterloo, specializing in Software Engineering</h3>
 
-- 🔭 I’m currently working on **developing Full-Stack applications**
+- 🔭 I’m currently working on **mechie.io**
 
 - 💬 Ask me about **Full-Stack applications, my contribution at WATonomous, an Engineering Student Design Team focused on autonomous vehicle research, and my course related projects**
 
