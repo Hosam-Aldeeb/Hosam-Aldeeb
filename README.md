@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **mechie.io**
 
-- 💬 Ask me about **Full-Stack applications, my contribution at WATonomous, an Engineering Student Design Team focused on autonomous vehicle research, and my course related projects**
+- 💬 Ask me about **Mechie.io, my experience as a Software Engineer at Tesla, and my course related projects**
 
 - 📫 How to reach me **haaldeeb@uwaterloo.ca**
 
